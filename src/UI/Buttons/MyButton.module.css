@@ -1,0 +1,13 @@
+.btnMain {
+    flex: 1 1 25%;
+    padding: 25px;
+    border-radius: 5px;
+    margin: 3px 1px;
+    font-size: 20px;
+    background-color: #08AA69;
+    color: whitesmoke;
+}
+
+.btnMain:active{
+    background-color: #01482B;
+}

@@ -1,0 +1,16 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .App {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   padding: 100px 550px;
+   height: 100vh;
+   background-image: url('https://phonoteka.org/uploads/posts/2021-05/1620750539_3-phonoteka_org-p-vopreki-vsemu-fon-stim-3.jpg');
+   background-size: cover;
+  background-repeat: no-repeat;
+ }
